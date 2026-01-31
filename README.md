@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Hostezza
-- 👀 I’m interested in making discord servers and content creation.
-- 🌱 I’m currently learning coding/website creation.
-- 💞️ I’m looking to collaborate on discord.
-- 📫 How to reach me: Friend me on discord to DM me: hostezza_._
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im funny
+- 👋 Hi, I’m Simon Frellesen
+- 👀 I’m going to be the worlds Tony Stark, the goal is genius, billionaire, playboy, philanphropist.
+- 🌱 I’m currently learning coding, mathematics, physics, chemistry, robotics and a lot of other things.
+- 💞️ I’m looking to collaborate.
+- 📫 How to reach me: Friend me on discord to DM me: frellefar
 
-<!---
-Hostezza1/Hostezza1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
